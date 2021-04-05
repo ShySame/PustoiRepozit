@@ -88,32 +88,18 @@ h1 {padding-top: 30px;
   border-radius: 20px 5px;
   background-color: #ffffff;
   }
-
-  .wrapper {
-    width: 850px;
-    height: 500px;
-    border: 5px solid #000000;
-    margin: 0 auto
-  }
+ 
   .exmpl {
     overflow: hidden;
     display: block;
     justify-content: center;
     align-items: center;
+    
   }
   .exmpl img {
-    height: 100%;
-    width: auto;
-  }
-  .exmpl {
-    overflow: hidden;
-    display: block;
-    justify-content: center;
-    align-items: center;
-  }
-  .exmpl img {
-    height: 100%;
-    width: auto;
+    height: auto;
+    width: 80%;
+    border: 5px solid black;
   }
   p {padding-left: 60px;
     letter-spacing: normal;
